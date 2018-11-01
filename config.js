@@ -1,6 +1,6 @@
 var CONFIG = {
   // 网页 title
-  title: 'Book-Cli',
+  title: '鲁西西的博客',
   // 网页 keywords
   keywords: 'book, book-cli, doc, example',
   // 网页 description
